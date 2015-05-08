@@ -16,7 +16,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = process.env.CLIENT_ID; // Your client id
 var client_secret = process.env.CLIENT_SECRET; // Your client secret
-var redirect_uri = 'https://26fe2ef4.ngrok.com/callback'; // Your redirect uri
+var redirect_uri = 'https://ssauth.herokuapp.com/callback'; // Your redirect uri
 
 log(client_id);
 log(client_secret);
