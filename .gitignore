@@ -1,2 +1,4 @@
 *.swp
 run.sh
+node_modules/
+
